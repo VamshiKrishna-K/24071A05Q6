@@ -73,3 +73,14 @@ Include the Authorization header.
   { "id": 2, "name": "Jane Smith", "age": 22, "grade": "B" }
 ]
 ```
+
+
+<img width="1824" height="905" alt="{C26B08E0-B130-49E1-B1A2-780D24B79FC4}" src="https://github.com/user-attachments/assets/35591836-13aa-41c2-89d0-2c8480b8d548" />
+
+
+
+<img width="1837" height="939" alt="{09FB0EA7-BE47-436C-93FB-E6A791D054E7}" src="https://github.com/user-attachments/assets/717dfdef-224e-4231-88b3-a68f3c5f6b4d" />
+
+
+<img width="1851" height="887" alt="{AC5E734B-4349-47E3-B545-F6093230AC57}" src="https://github.com/user-attachments/assets/6e9ae185-02b7-4644-ac4a-2cffa408dd0e" />
+
