@@ -7,7 +7,7 @@ public class DBConnection {
         return DriverManager.getConnection(
             "jdbc:mysql://localhost:3306/studentdb",
             "root",
-            "password"
+            "24071a05q6@mysql"
         );
     }
 }
