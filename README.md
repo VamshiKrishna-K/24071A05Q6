@@ -1,114 +1,40 @@
-# 📚 List of Exercises
-
----
-
-## 🧪 Exercise 1
-Build a responsive web application for a shopping cart with:
-- User registration & login
-- Product catalog
-- Cart functionality  
-Using **CSS3, Flexbox, and Grid**
-
----
-
-## 🧪 Exercise 2
-Enhance the shopping cart application by making it fully responsive using the **Bootstrap framework**
-
----
-
-## 🧪 Exercise 3
-Implement **client-side validation** using JavaScript for:
-- Experiment 1
-- Experiment 2
-
----
-
-## 🧪 Exercise 4
-Explore **ES6 features**:
-- Arrow functions
-- Callbacks
-- Promises
-- Async/Await  
-
-Build a weather application that:
-- Fetches data from OpenWeatherMap API
-- Displays weather data using graphs
-
----
-
-## 🧪 Exercise 5
-Develop a **Java standalone application** that:
-- Connects to a database (Oracle / MySQL)
-- Performs CRUD operations
-
----
-
-## 🧪 Exercise 6
-Create an **XML document** for a bookstore and validate it using:
-- DTD
-- XSD
-
----
-
-## 🧪 Exercise 7
-Design a **Servlet-based controller** that:
-- Connects the web application (Exercise 1)
-- Interacts with the database (Exercise 5)
-
----
-
-## 🧪 Exercise 8
-Explore **session tracking mechanisms**:
-- Cookies
-- HTTP Sessions  
-
-Focus on maintaining user transaction history
-
----
-
-## 🧪 Exercise 9
-Create a **custom Node.js server** using:
-- HTTP module  
-
-Also explore:
-- OS module
-- Path module
-- Events module
-
----
-
-## 🧪 Exercise 10
-Develop an **Express.js application** that:
-- Interacts with REST APIs
-- Performs CRUD operations on student data  
-(Test using Postman)
-
----
-
-## 🧪 Exercise 11
-Secure the above application by:
-- Creating authorized endpoints using **JWT (JSON Web Token)**
-
----
-
-## 🧪 Exercise 12
-Create a **React application** for Student Management System with:
-- Registration
-- Login
-- Contact page
-- About page  
-Implement **routing**
-
----
-
-## 🧪 Exercise 13
-Create a **React service** that:
-- Fetches weather data from OpenWeatherMap
-- Displays current & historical data using **Chart.js**
-
----
-
-## 🧪 Exercise 14
-Develop a **TODO application in React**:
-- Build necessary components
-- Deploy the app on GitHub
+LIST OF EXERCISES: 
+2 
+3 
+3 
+3 
+3 
+2 
+1 
+1 
+1. Build a responsive web application for shopping cart with registration, login, 
+catalog and cart pages using CSS3 features, flex and grid. 
+2. Make the above web application responsive web application using Bootstrap 
+framework. 
+3. Use JavaScript for doing client – side validation of the pages implemented in 
+experiment 1 and experiment 2. 
+4. Explore the features of ES6 like arrow functions, callbacks, promises, async/await. 
+Implement an application for reading the weather information from 
+openweathermap.org and display the information in the form of a graph on the 
+web page. 
+5. Develop a java standalone application that connects with the database (Oracle 
+/ mySql) and perform the CRUD operation on the database tables. 
+6. Create an xml for the bookstore. Validate the same using both DTD and XSD. 
+7. Design a controller with servlet that provides the interaction with application 
+developed in experiment 1 and the database created in experiment 5. 
+8. Maintaining the transactional history of any user is very important. Explore the 
+various session tracking mechanism (Cookies, HTTP Session) 
+9. Create a custom server using http module and explore the other modules of Node 
+JS like OS, path, event. 
+10. Develop an express web application that can interact with REST API to perform 
+CRUD operations on student data. (Use Postman) 
+11. For the above application create authorized end points using JWT (JSON Web 
+Token). 
+12. Create a react application for the student management system having 
+registration, login, contact, about pages and implement routing to navigate 
+through these pages. 
+13. Create a service in react that fetches the weather information from 
+openweathermap.org and the display the current and historical weather 
+information using graphical representation using chart.js 
+14. Create a TODO application in react with necessary components and deploy it into 
+github.
