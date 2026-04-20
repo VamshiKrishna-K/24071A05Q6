@@ -13,18 +13,6 @@ This project demonstrates how to validate an XML file (`bookstore.xml`) using bo
 
 ---
 
-## 📂 Project Structure
-
-```
-project-folder/
-├── bookstore.xml     # Main XML file
-├── bookstore.dtd     # DTD validation rules
-├── bookstore.xsd     # XSD validation rules
-└── README.md         # Documentation
-```
-
----
-
 ## ▶️ How to Run
 
 - Open `bookstore.xml` in VS Code  
