@@ -29,6 +29,7 @@ CREATE TABLE student (
    - Click **Add External JARs**  
    - Select the downloaded `.jar` file  
    - Click **Apply and Close**
+<img width="1151" height="674" alt="{8E3EDF04-FA66-4A6B-982B-7520B80A9037}" src="https://github.com/user-attachments/assets/f821a672-61af-4959-bcaa-6eb4a3cb2375" />
 
 ---
 
