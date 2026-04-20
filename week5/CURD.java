@@ -10,7 +10,7 @@ public class CURD {
              Connection c = DriverManager.getConnection(
                  "jdbc:mysql://localhost:3306/crud",
                  "root",
-                 "24071a05q6@mysql"
+                 "password"
              )) {
 
             System.out.println("Connection Established");
